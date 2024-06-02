@@ -1,5 +1,5 @@
-![Screenshot](./myApp/Screenshot.png)
-![Screenshot](./myApp/Screenshot2.png)
+![Screenshot](<Screenshot.png>)
+![Screenshot](<Screenshot2.png>)
 This project is a simple task manager built with React Native. The main file, App.js, combines three key components: Header, Categories, and OngoingTask. Here's a brief explanation of each component:
 
 Header: This component greets the user with "Hello, Devs" and shows the number of tasks for the day. It includes an image representing the user.
